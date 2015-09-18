@@ -86,7 +86,7 @@ public class MainActivity extends Activity {
 		mWebView.addJavascriptInterface(getHtmlObject(), "jsObj");
 //		mWebView.loadUrl("file:///android_asset/index.html");
 //		mWebView.loadUrl("http://58.213.134.205:9965/keeper/login.html");//仓管
-		mWebView.loadUrl("http://192.168.2.203:8080/tymf/login.html");//司机
+		mWebView.loadUrl("http://ads.56wtb.com:9965/driver/login.html");//司机
 		//仓管：http://58.213.134.205:9965/keeper/login.html
 
 			//司机：http://58.213.134.205:9965/driver/login.html
